@@ -39,6 +39,7 @@ None. All content (service descriptions, partner shop info, blog post placeholde
 
 - **Cal.com** — external booking link, no integration code needed beyond the `<a href>` links
 - **Google Fonts** — Inter, loaded via `next/font/google` (replacing the current `<link>` tag)
+- **Google Analytics (gtag.js, ID G-9DX4XY4P3H)** — loaded site-wide via `next/script` in `app/layout.tsx`
 - **Client logo images** — `assets/partners/*.png` (Shift Masters Transmissions, HM Auto Repair and Body, Foreign Motor Service), moved into `/public`
 - **Social links** — Instagram, TikTok (generic icon, not their trademarked logo — see earlier decision in this project), YouTube — plain external links, no API
 
