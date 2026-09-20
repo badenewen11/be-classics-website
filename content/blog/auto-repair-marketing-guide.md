@@ -7,7 +7,7 @@ excerpt: Great work isn't enough to fill your bays. Here's how auto repair marke
 
 Most shop owners got into this business because they're great with cars, not because they love marketing. That's exactly why so many good shops have empty bays on a Tuesday afternoon while a worse shop down the road stays booked. That's not a talent problem. It's a marketing problem, and the good news is that it's a fixable one.
 
-Word of mouth will always matter. But it's slow, it's unpredictable, and you can't turn it up when you need more work. **Auto repair marketing** is how you turn it up on purpose: put your shop in front of people at the moment they need a repair, and make it easy for them to book.
+Word of mouth will always matter. But it's slow, it's unpredictable, and you can't turn it up when you need more work. Nobody ever fixed a slow Tuesday by hoping harder. **Auto repair marketing** is how you turn it up on purpose: put your shop in front of people at the moment they need a repair, and make it easy for them to book.
 
 This guide covers what actually works for auto shop marketing, the mistakes we see most often, and how to tell whether your marketing is paying for itself.
 
@@ -27,7 +27,7 @@ You don't need to be everywhere. For most independent shops, these four channels
 
 ### 1. Google Search ads
 
-When someone types "brake repair near me" or "check engine light diagnostic," they don't need convincing. They need a shop, today. Google Search ads put your shop at the top of the results right at that moment.
+When someone types "brake repair near me" or "check engine light diagnostic," they don't need convincing. Nobody stares at a blinking check engine light and thinks, "I'll deal with that next quarter." They need a shop, today. Google Search ads put your shop at the top of the results right at that moment.
 
 This is the closest thing marketing has to a shortcut, because you're reaching people who are already ready to buy. To get the most from auto repair advertising on Google:
 
@@ -40,7 +40,7 @@ This is the closest thing marketing has to a shortcut, because you're reaching p
 
 Your Google Business Profile is the listing that shows up on the map when people search locally. It's free, and for many shops it's the single biggest source of new customers.
 
-Make sure it's complete: the right categories, accurate hours, your services, real photos of your shop and team, and a steady flow of reviews. Businesses with complete, active profiles tend to be shown more often and get more calls.
+Make sure it's complete: the right categories, accurate hours, your services, real photos of your shop and team, and a steady flow of reviews. Real photos, mind you. Drivers can spot a stock photo of a smiling mechanic from a mile away. Businesses with complete, active profiles tend to be shown more often and get more calls.
 
 ### 3. Facebook and Instagram ads
 
@@ -59,9 +59,9 @@ Reviews feed everything else too. They help you show up on the map, and they mak
 Here are the mistakes we see most often when shops try to handle marketing on their own:
 
 - **Sending ad clicks to the homepage.** A visitor who clicked on "transmission repair" should land on a transmission page with a phone number and a booking button, not a general "about us" page.
-- **Not tracking calls and bookings.** If you can't say which ad produced which appointment, you're guessing.
-- **Advertising everything at once.** Pick two or three services with the best margins and start there.
-- **Missing the calls that come in.** If leads go to voicemail during business hours, a good campaign still fails. Someone has to pick up.
+- **Not tracking calls and bookings.** If you can't say which ad produced which appointment, you're guessing, and guessing is for birthday presents.
+- **Advertising everything at once.** Pick two or three services with the best margins and start there. You can't win the whole league in week one.
+- **Missing the calls that come in.** If leads go to voicemail during business hours, a good campaign still fails. Someone has to pick up. A ringing phone nobody answers is just an expensive doorbell.
 - **Signing a long contract before seeing results.** You should be able to see what's working before you commit.
 
 ## How to tell if your marketing is working
