@@ -35,7 +35,7 @@ export default async function BlogPostPage({
 
   return (
     <>
-      <header className="hero page-hero">
+      <header className="hero page-hero post-hero">
         <div className="wrap hero-inner">
           <Link href="/blog" className="post-back">
             ← Back to Blog
