@@ -20,6 +20,7 @@ export default function Home() {
           <p className="hero-sub">
             We build targeted Google &amp; Facebook ad campaigns that put your shop in front of
             customers actively searching for repairs — so your bays stay booked, not empty.
+            <span className="hero-sub-note"> (And yes, an actual guarantee, or your money back.)</span>
           </p>
 
           <div className="hero-actions">

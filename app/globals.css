@@ -311,6 +311,10 @@ svg {
     font-size: clamp(1rem, 1.3vw, 1.15rem);
     @apply text-ink-soft relative z-2;
   }
+  .hero-sub-note {
+    @apply font-semibold;
+    color: var(--accent-dark);
+  }
   .hero-actions {
     @apply flex flex-wrap gap-4 mt-9 relative z-2;
   }
