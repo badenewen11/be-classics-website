@@ -10,7 +10,13 @@ export default function BlogCard({ post }: { post: PostMeta }) {
       <div className="blog-media">
         <span className="blog-tag">{post.tag}</span>
         {post.cover ? (
-          <Image src={post.cover} alt={post.title} fill style={{ objectFit: "cover" }} />
+          <Image
+            src={post.cover}
+            alt={post.title}
+            fill
+            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            style={{ objectFit: "cover" }}
+          />
         ) : (
           <BlogCardIcon className="blog-media-icon" />
         )}

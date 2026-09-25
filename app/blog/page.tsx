@@ -73,6 +73,7 @@ export default function BlogPage() {
                       src={featured.cover}
                       alt={featured.title}
                       fill
+                      sizes="(min-width: 860px) 40vw, 100vw"
                       style={{ objectFit: "cover" }}
                     />
                   ) : (

@@ -53,7 +53,14 @@ export default async function BlogPostPage({
           {post.cover && (
             <Reveal>
               <div className="post-cover">
-                <Image src={post.cover} alt={post.title} fill style={{ objectFit: "cover" }} />
+                <Image
+                  src={post.cover}
+                  alt={post.title}
+                  fill
+                  priority
+                  sizes="(min-width: 800px) 760px, 100vw"
+                  style={{ objectFit: "cover" }}
+                />
               </div>
             </Reveal>
           )}

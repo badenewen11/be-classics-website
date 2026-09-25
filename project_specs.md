@@ -90,7 +90,7 @@ Write the article here using normal Markdown: **bold**, *italic*,
 work as you'd expect.
 ```
 
-- `title`, `date`, `excerpt` are required. `tag` and `cover` are optional (`cover` is an image path under `/public`; if left out, a plain colored background is used).
+- `title`, `date`, `excerpt` are required. `tag` and `cover` are optional (`cover` is an image path under `/public`, e.g. `/blog/my-post.jpg`, ideally 1600x900 with the important content kept toward the center since cards crop it; if left out, a flat panel with a small icon is shown).
 - Read time is calculated automatically from word count — no need to set it.
 - The most recent post (by `date`) is automatically shown as the featured post at the top of `/blog`; everything else appears in the grid below.
 - Delete a `.md` file to unpublish. That's the whole workflow — no login, no database, no admin panel.

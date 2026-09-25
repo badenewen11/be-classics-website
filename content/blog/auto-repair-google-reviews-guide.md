@@ -2,6 +2,7 @@
 title: "Google Reviews for Auto Repair Shops: How to Get More (and Handle the Bad Ones)"
 date: 2026-09-22
 tag: Reputation
+cover: /blog/auto-repair-google-reviews-guide.jpg
 excerpt: Reviews decide whether a nervous driver calls you or the shop next door. Here's how to get more of them, what to do about the bad ones, and how to reply without sounding like a lawyer.
 ---
 

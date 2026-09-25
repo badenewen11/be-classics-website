@@ -2,6 +2,7 @@
 title: "Google Ads vs. Facebook Ads for Auto Repair Shops: Which One Should You Use?"
 date: 2026-09-25
 tag: Advertising
+cover: /blog/google-ads-vs-facebook-ads-auto-repair.jpg
 excerpt: Both platforms can fill your bays, but they do it in completely different ways. Here's how Google and Facebook ads actually differ for a repair shop, and which one to start with.
 ---
 

@@ -2,6 +2,7 @@
 title: "Auto Repair SEO: How to Show Up When Drivers Search for a Shop"
 date: 2026-09-21
 tag: SEO
+cover: /blog/auto-repair-seo-guide.jpg
 excerpt: Ads bring fast traffic, but SEO is what keeps your shop showing up for free, month after month. Here's how local SEO works for auto repair shops and where to start.
 ---
 

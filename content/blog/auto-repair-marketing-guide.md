@@ -2,6 +2,7 @@
 title: "Auto Repair Marketing: A Simple Guide to Getting More Booked Appointments"
 date: 2026-09-20
 tag: Strategy
+cover: /blog/auto-repair-marketing-guide.jpg
 excerpt: Great work isn't enough to fill your bays. Here's how auto repair marketing works, which channels actually bring in customers, and how to tell if your money is being well spent.
 ---
 
