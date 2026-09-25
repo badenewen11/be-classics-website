@@ -2,14 +2,17 @@ import Link from "next/link";
 import Image from "next/image";
 import type { PostMeta } from "@/lib/posts";
 import { formatDate } from "@/lib/posts";
+import BlogCardIcon from "@/components/BlogCardIcon";
 
 export default function BlogCard({ post }: { post: PostMeta }) {
   return (
     <Link href={`/blog/${post.slug}`} className="blog-card reveal is-visible">
       <div className="blog-media">
         <span className="blog-tag">{post.tag}</span>
-        {post.cover && (
+        {post.cover ? (
           <Image src={post.cover} alt={post.title} fill style={{ objectFit: "cover" }} />
+        ) : (
+          <BlogCardIcon className="blog-media-icon" />
         )}
       </div>
       <div className="blog-body">

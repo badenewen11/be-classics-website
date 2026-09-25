@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Reveal from "@/components/Reveal";
 import BlogCard from "@/components/BlogCard";
+import BlogCardIcon from "@/components/BlogCardIcon";
 import { CAL_LINK } from "@/components/SocialIcons";
 import { getAllPosts, formatDate } from "@/lib/posts";
 
@@ -67,13 +68,15 @@ export default function BlogPage() {
                   </p>
                 </div>
                 <div className="blog-featured-media">
-                  {featured.cover && (
+                  {featured.cover ? (
                     <Image
                       src={featured.cover}
                       alt={featured.title}
                       fill
                       style={{ objectFit: "cover" }}
                     />
+                  ) : (
+                    <BlogCardIcon className="blog-featured-media-icon" />
                   )}
                 </div>
               </Link>

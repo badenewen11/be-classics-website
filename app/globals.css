@@ -596,12 +596,14 @@ svg {
     box-shadow: 0 24px 48px rgba(11, 11, 12, 0.08);
   }
   .blog-media {
-    @apply relative overflow-hidden;
+    @apply relative overflow-hidden flex items-center justify-center;
     height: 190px;
-    background: linear-gradient(135deg, var(--bg-alt), var(--accent) 140%);
+    background: var(--bg-alt);
   }
-  .blog-media svg {
-    @apply absolute inset-0 h-full w-full;
+  .blog-media-icon {
+    @apply h-16 w-16;
+    color: var(--ink);
+    opacity: 0.14;
   }
   .blog-tag {
     @apply absolute top-4 left-4 z-2 rounded-full text-[0.7rem] font-bold uppercase;
@@ -672,12 +674,15 @@ svg {
     background: var(--bg);
   }
   .blog-featured-media {
-    @apply relative overflow-hidden rounded-[18px];
+    @apply relative overflow-hidden rounded-[18px] flex items-center justify-center;
     aspect-ratio: 4 / 3;
-    background: linear-gradient(150deg, #1c1c1e, #333 60%, var(--accent-dark) 140%);
+    background: rgba(237, 236, 231, 0.06);
+    border: 1px solid rgba(237, 236, 231, 0.1);
   }
-  .blog-featured-media svg {
-    @apply absolute inset-0 h-full w-full;
+  .blog-featured-media-icon {
+    @apply h-24 w-24;
+    color: var(--accent);
+    opacity: 0.85;
   }
 
   /* ---- Process ---- */
