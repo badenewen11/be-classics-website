@@ -35,7 +35,10 @@ export default function Footer() {
         </div>
         <div className="footer-bottom">
           <span>&copy; 2026 B.E. Classics. All rights reserved.</span>
-          <span>Guaranteed Booked Appointments</span>
+          <span className="footer-bottom-right">
+            <Link href="/privacy">Privacy Policy</Link>
+            <span>Guaranteed Booked Appointments</span>
+          </span>
         </div>
       </div>
     </footer>

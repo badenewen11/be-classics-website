@@ -856,6 +856,12 @@ svg {
     @apply flex flex-wrap items-center justify-between gap-4 py-8 text-[0.78rem] font-bold uppercase text-ink-soft;
     letter-spacing: 0.08em;
   }
+  .footer-bottom-right {
+    @apply flex flex-wrap items-center gap-4;
+  }
+  .footer-bottom-right a:hover {
+    color: var(--ink);
+  }
 
   /* ---- Single blog post ---- */
   .post-back {
